@@ -1,0 +1,11 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: Set a width if the table is not meant to be full-width */
+  width: 80%; /* Example width */
+  border: 1px solid black;}
+
+
+  body {
+   align-items: center;
+}
